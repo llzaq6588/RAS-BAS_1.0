@@ -1,0 +1,16 @@
+=======================   RAS-BAS system 2.0ver  ===================================
+
+	『 This Application is working on the WEB-SERVER(Apache2)
+	『 This Application needs OpenSSL.
+	『 This Application can be run by EUC-KR Encording.
+	『 This Application Applied to MIT LICENSE
+
+
+The RAS-BAS 1.0 ver SOURCE was in the zip file.
+
+AllatAPI.c and AllatAPI.h can't open.
+
+Please Chack the guide book(RASBAS 1.0 DOCUMENT.pdf) before using this Application.
+
+			builded Application by KAERIUS
+======================================================================================
