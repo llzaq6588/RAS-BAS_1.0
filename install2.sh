@@ -3,7 +3,7 @@
 cp -r ./rasbas /var
 chown root /var/rasbas/ -R
 chgrp root /var/rasbas/ -R
-chmod 755 /var/rasbas/ -R
+chmod 500 /var/rasbas/ -R
 
 sudo cp -r ./www /var
 mkdir /var/www/phpmyadmin
