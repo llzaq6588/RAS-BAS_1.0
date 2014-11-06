@@ -37,9 +37,6 @@ gpio -v gpio readall
 
 clear
 
-git clone https://github.com/llzaq6588/RAS-BAS_1.0
-
-cd ./RAS-BAS_1.0
 
 cp -r ./rasbas /var
 chown root /var/rasbas/ -R
