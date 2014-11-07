@@ -10,6 +10,7 @@ mkdir /var/www/phpmyadmin
 cp /var/www/phpmyadmin.zip /var/www/phpmyadmin
 cd /var/www/phpmyadmin
 sudo unzip .//phpmyadmin.zip
+sudo rm /var/www/index.html
 
 /etc/init.d/apache2 restart
 
